@@ -28,6 +28,3 @@ Day1.part1(input)
 
 test_input_2 = File.read('Inputs/Day1/Test/Day1Part2Test.txt')
 Day1.part2(test_input_2)
-
-NUMBERS = "/one|two|three|four|five|six|seven|eight|nine|1|2|3|4|5|6|7|8|9/"
-"abasvasix".scan(NUMBERS)
